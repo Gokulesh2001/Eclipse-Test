@@ -8,7 +8,6 @@ import sqlConnect.MySql;
 public class Purchase 
 {
 
-	
 	public boolean addMedicine(int customerID,String[] medicineIDs,String[] medicineQuantities)
 	{
 		MySql m = new MySql();
