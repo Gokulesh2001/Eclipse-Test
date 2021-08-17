@@ -9,7 +9,6 @@ import sqlConnect.MySql;
 public class Customer 
 {
 
-
 	static Connection con = null;
 	
 	public void connect()
